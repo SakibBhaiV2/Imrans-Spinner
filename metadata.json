@@ -1,0 +1,6 @@
+{
+  "name": "Premium Topic Spinner Wheel — by IMRAN",
+  "description": "একটি আধুনিক, প্রিমিয়াম স্পিচ ও প্রেজেন্টেশন টপিক নির্বাচক স্পিনার হুইল ওয়েব অ্যাপ। বাই ইমরান (IMRAN)।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

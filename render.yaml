@@ -1,0 +1,11 @@
+# /* © 2025 IMRAN — All rights reserved. */
+services:
+  - type: web
+    name: imrans-spinner
+    runtime: static
+    buildCommand: npm install --legacy-peer-deps && npm run build
+    staticPublishPath: ./dist
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
