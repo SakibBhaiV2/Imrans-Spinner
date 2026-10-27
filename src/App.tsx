@@ -201,7 +201,7 @@ export default function App() {
           className="text-center"
         >
           <h1 className="text-xl sm:text-2xl font-extrabold tracking-tight text-neutral-900">
-            র্যান্ডম টপিক স্পিনার হুইল
+            র্টপিক স্পিনার হুইল
           </h1>
           <p className="text-xs text-neutral-500 font-medium mt-0.5">
             বক্তব্য, প্রেজেন্টেশন ও আলোচনার বিষয় নির্বাচনের সহজ মাধ্যম
